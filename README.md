@@ -15,7 +15,6 @@
 ### 🌐 Encuéntrame en:
 
 <p align="left">
-  <a href="https://dev.SG-GS0208" target="_blank"><img src="https://img.shields.io/badge/Web-dev.SG-GS0208-121013?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:alvarosiguenas@gmail.com"><img src="https://img.shields.io/badge/Gmail-alvarosiguenas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/alvaro-sigueñas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-alvaro-sigueñas-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
