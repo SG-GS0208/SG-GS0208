@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="mailto:alvarosiguenas@gmail.com"><img src="https://img.shields.io/badge/Gmail-alvarosiguenas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/alvaro-sigueñas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-alvaro-sigueñas-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alvaro-sigue%C3%B1as-9695aa249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-alvaro-sigueñas-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
