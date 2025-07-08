@@ -55,18 +55,18 @@
 ### 📊 Estadísticas de GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilegaljm&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ilegaljm&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SG-GS0208&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SG-GS0208&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilegaljm&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SG-GS0208&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
 ### ✨ Frase personal
 
-> “El código es el lenguaje para cambiar el mundo.” – Jose Cueva
+> “Hola mundo.” – Alvaro Sigueñas
 
 ---
