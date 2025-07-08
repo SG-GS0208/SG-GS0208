@@ -65,7 +65,7 @@
 
 ---
 
-### ✨ Frase personal
+### ✨ Frase pe rsonal
 
 > “Hola mundo.” – Alvaro Sigueñas
 
